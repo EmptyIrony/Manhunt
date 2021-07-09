@@ -1,0 +1,17 @@
+name: Manhunt
+version: ${project.version}
+main: cn.charlotte.plugin.ManHunt
+api-version: 1.17
+authors: [ Charlotte_teams ]
+description: The manhunt plugin made by Charlotte teams
+commands:
+  hunt:
+    description: "a command"
+  start:
+    description: "a command"
+  hunter:
+    description: "a command"
+  runner:
+    description: "a command"
+  seaking:
+    description: "a command"
